@@ -1,4 +1,4 @@
-# Three.js Journey
+# Ray Marching in 2D
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
